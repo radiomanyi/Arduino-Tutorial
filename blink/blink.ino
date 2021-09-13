@@ -1,7 +1,7 @@
 void setup() {
   // put your setup code here, to run once:
-  pinMode(13,OUTPUT);//设置11号引脚为输出模式
-  pinMode(12,OUTPUT);
+  pinMode(13,OUTPUT);//设置13号引脚为输出模式
+  pinMode(12,OUTPUT);//设置12号引脚为输出模式
 }
 
 void loop() {
